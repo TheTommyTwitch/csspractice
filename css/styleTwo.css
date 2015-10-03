@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+}
+
+.top-nav {
+	height: 100px;
+	width: 100%;
+	background-color: green;
+	margin-top: -80px;
+}
+
+.nav-content {
+	height: 80px;
+}
+
+.nav-button {
+	height: 20px;
+	width: 100%;
+	background-color: teal;
+}
+
+nav {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.nav-links {
+	width: 50px;
+	height: 20px;
+	background-color: white;
+	padding: 5px;
+	border-radius: 5px;
+}
